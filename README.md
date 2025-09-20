@@ -1,29 +1,43 @@
-# CraftingBench
+# 🛠️ CraftingBench
 
-## Compilation of personal projects...
+## 📚 Compilation of Personal Projects  
+Feel free to browse around!
 
-### Feel free to browse!
+---
 
-Contents:
-1. Calorie Counter
-   - Simple Calorie Counter
-      - Practices:
-      I. Form Validation
-      II. JS Event handlers/listeners
-      III. Simple Regex
-      IV. Template literals
-2. Color Changer
-   - Random Hex Code Generator
-3. Javascript
-   - Pyramid generator
-   - Gradebook program
-4. RPG game
-   - Dragon Repeller (Using basic HTML)
-      - Practices:
-      I. Arrays
-      II. String
-      III. Functions
-      IV. Loops
-      V. If/else statements
-5. Typescript
-   - playground
+## 📌 Contents
+
+### 1. Calorie Counter  
+- **Simple Calorie Counter**  
+  **Practices:**  
+  - Form Validation  
+  - JS Event Handlers/Listeners  
+  - Simple Regex  
+  - Template Literals  
+
+---
+
+### 2. Color Changer  
+- **Random Hex Code Generator**
+
+---
+
+### 3. Javascript  
+- Pyramid Generator  
+- Gradebook Program  
+
+---
+
+### 4. RPG Game  
+- **Dragon Repeller** (Using basic HTML)  
+  **Practices:**  
+  - Arrays  
+  - Strings  
+  - Functions  
+  - Loops  
+  - If/Else Statements  
+
+---
+
+### 5. Typescript  
+- Playground  
