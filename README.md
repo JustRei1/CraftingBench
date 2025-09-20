@@ -17,6 +17,9 @@ Contents:
    - Gradebook program
 3. RPG game
    - Dragon Repeller (Using basic HTML)
-      - (P.S. This game is created for practicing basic JS...)
-4. Typescript
-   - Playground
+      - Practices:
+      I. Arrays
+      II. String
+      III. Functions
+      IV. Loops
+      V. If/else statements
