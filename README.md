@@ -12,10 +12,12 @@ Contents:
       II. JS Event handlers/listeners
       III. Simple Regex
       IV. Template literals
-2. Javascript
+2. Color Changer
+   - Random Hex Code Generator
+3. Javascript
    - Pyramid generator
    - Gradebook program
-3. RPG game
+4. RPG game
    - Dragon Repeller (Using basic HTML)
       - Practices:
       I. Arrays
@@ -23,3 +25,5 @@ Contents:
       III. Functions
       IV. Loops
       V. If/else statements
+5. Typescript
+   - playground
