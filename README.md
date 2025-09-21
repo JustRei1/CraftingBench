@@ -39,5 +39,14 @@ Feel free to browse around!
 
 ---
 
-### 5. Typescript  
+### 5. RPS 
+- **Rock, Paper, Scissors** (Reviewing DOM Manipulation)
+  **Practices:**
+  - DOM Manipulation
+  - Conditional statements
+  - Functions
+  
+---
+
+### 6. Typescript  
 - Playground  
