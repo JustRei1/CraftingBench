@@ -25,6 +25,7 @@ Feel free to browse around!
 ### 3. Javascript  
 - Pyramid Generator  
 - Gradebook Program  
+- Fibonacci Sequence  
 
 ---
 
