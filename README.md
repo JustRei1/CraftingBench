@@ -18,7 +18,8 @@ Feel free to browse around!
 ---
 
 ### 2. Color Changer  
-- **Random Hex Code Generator**
+- **Random Hex Code Generator** 
+  - Quite literally just generates a random hex code... Changes the background on click!
 
 ---
 
@@ -32,7 +33,7 @@ Feel free to browse around!
 ### 4. Music Player
 - **Basic Music Player** (modern JS with arrow fns) 
     - Handles audio playback, managing playlist, implementing pause, play, previous, and shuffle functionality. 
-    
+
   **Practices:**  
   - Dynamic handling of data  
   - Array methods (*find*, *forEach*, *map*, *join*, *spread*)  
