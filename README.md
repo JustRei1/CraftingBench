@@ -31,7 +31,7 @@ Feel free to browse around!
 
 ### 4. Music Player
 - **Basic Music Player** (modern JS with arrow fns) 
-    - Handles audio playback, managing playlist, implementing pause, play, previous, and shuffle functionality.
+    - Handles audio playback, managing playlist, implementing pause, play, previous, and shuffle functionality. 
   **Practices:**  
   - Dynamic handling of data  
   - Array methods (*find*, *forEach*, *map*, *join*, *spread*)  
