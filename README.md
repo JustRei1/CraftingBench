@@ -29,7 +29,16 @@ Feel free to browse around!
 
 ---
 
-### 4. RPG Game  
+### 4. Music Player
+- **Basic Music Player** (modern JS with arrow fns) 
+    - Handles audio playback, managing playlist, implementing pause, play, previous, and shuffle functionality.
+  **Practices:**  
+  - Dynamic handling of data  
+  - Array methods (*find*, *forEach*, *map*, *join*, *spread*)  
+
+---
+
+### 5. RPG Game  
 - **Dragon Repeller** (Using basic HTML)  
   **Practices:**  
   - Arrays  
@@ -40,7 +49,7 @@ Feel free to browse around!
 
 ---
 
-### 5. RPS 
+### 6. RPS 
 - **Rock, Paper, Scissors** (Reviewing DOM Manipulation)  
   **Practices:**  
   - DOM Manipulation  
@@ -49,5 +58,5 @@ Feel free to browse around!
 
 ---
 
-### 6. Typescript  
+### 7. Typescript  
 - Playground  
