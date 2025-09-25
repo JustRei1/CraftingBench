@@ -1,7 +1,7 @@
 # 🛠️ CraftingBench
 
 ## 📚 Compilation of Personal Projects  
-Feel free to browse around...
+Feel free to browse around... 
 All projects are in courtesy of freeCodeCamp Org!
 
 ---
