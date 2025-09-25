@@ -1,7 +1,8 @@
 # 🛠️ CraftingBench
 
 ## 📚 Compilation of Personal Projects  
-Feel free to browse around!
+Feel free to browse around...
+All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
@@ -72,7 +73,7 @@ Feel free to browse around!
 ---
 
 ### 8. Team Cards 
-- **Team Cards**  ( Project by freeCodeCamp Org ) 
+- **Team Cards**  
   **Practices:**  
     - Object.freeze() method  
     - .map() method 
