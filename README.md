@@ -71,7 +71,19 @@ Feel free to browse around!
 
 ---
 
-### 8. RPS 
+### 8. Team Cards 
+- **Team Cards**  ( Project by freeCodeCamp Org ) 
+  **Practices:**  
+    - Object.freeze() method  
+    - .map() method 
+    - DOM manipulation  
+    - Object destructuring  
+    - Event handling  
+    - Data Filtering  
+
+---
+
+### 9. RPS 
 - **Rock, Paper, Scissors** (Reviewing DOM Manipulation)  
   **Practices:**  
   - DOM Manipulation  
@@ -80,5 +92,5 @@ Feel free to browse around!
 
 ---
 
-### 9. Typescript  
+### 10. Typescript  
 - Playground  
