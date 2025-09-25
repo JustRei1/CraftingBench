@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(75, 81, 91)
+}
+
+h1{
+    text-align: center;
+    color:white;
+    font-weight: bold;
+}
+
+.container{
+    justify-content: center;
+    align-content:center;
+    text-align: center;
+    flex:auto;
+    flex-direction: row;
+    margin-top:200px;
+    margin-left:auto;
+    margin-bottom:auto;
+    margin-right:auto;
+    height:300px;
+    width:400px;
+    background-color:#1f1f3b;
+    padding:20px;
+}
+
+#text-input{
+    margin:5px;
+    width:90%;
+    font-size: 20px;
+    padding:8px;
+}
+
+#check-btn{
+    font-size: 30px;
+    margin:5px;
+    background-color:goldenrod;
+    color:white;
+    font-weight: bold;
+    padding:5px;
+    width:95%;
+}
+
+#result{
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+}
