@@ -23,14 +23,23 @@ Feel free to browse around!
 
 ---
 
-### 3. Javascript  
+### 3. Date Formatter 
+- **Basic Date Formatter dropdown** 
+- Changes date format 
+  **Practices:**  
+  - Formatting Dates  
+  - Date() object methods and properties  
+
+---
+
+### 4. Javascript  
 - Pyramid Generator  
 - Gradebook Program  
 - Fibonacci Sequence  
 
 ---
 
-### 4. Music Player
+### 5. Music Player
 - **Basic Music Player** (modern JS with arrow fns) 
     - Handles audio playback, managing playlist, implementing pause, play, previous, and shuffle functionality. 
 
@@ -40,7 +49,7 @@ Feel free to browse around!
 
 ---
 
-### 5. Palindrome 
+### 6. Palindrome 
 - **Palindrome word checker** (Certification Project for basic JS)  
   **Practices** 
   - Array manipulation
@@ -50,7 +59,7 @@ Feel free to browse around!
 
 ---
 
-### 6. RPG Game  
+### 7. RPG Game  
 - **Dragon Repeller** (Using basic HTML)  
   **Practices:**  
   - Arrays  
@@ -61,7 +70,7 @@ Feel free to browse around!
 
 ---
 
-### 7. RPS 
+### 8. RPS 
 - **Rock, Paper, Scissors** (Reviewing DOM Manipulation)  
   **Practices:**  
   - DOM Manipulation  
@@ -70,5 +79,5 @@ Feel free to browse around!
 
 ---
 
-### 8. Typescript  
+### 9. Typescript  
 - Playground  
