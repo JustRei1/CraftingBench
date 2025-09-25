@@ -40,7 +40,17 @@ Feel free to browse around!
 
 ---
 
-### 5. RPG Game  
+### 5. Palindrome 
+- **Palindrome word checker** (Certification Project for basic JS)  
+  **Practices** 
+  - Array manipulation
+  - Cleaning texts  
+  - Conditional statements  
+  - DOM manipulation
+
+---
+
+### 6. RPG Game  
 - **Dragon Repeller** (Using basic HTML)  
   **Practices:**  
   - Arrays  
@@ -51,7 +61,7 @@ Feel free to browse around!
 
 ---
 
-### 6. RPS 
+### 7. RPS 
 - **Rock, Paper, Scissors** (Reviewing DOM Manipulation)  
   **Practices:**  
   - DOM Manipulation  
@@ -60,5 +70,5 @@ Feel free to browse around!
 
 ---
 
-### 7. Typescript  
+### 8. Typescript  
 - Playground  
