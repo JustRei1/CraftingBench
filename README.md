@@ -29,6 +29,7 @@ Feel free to browse around!
   **Practices:**  
   - Formatting Dates  
   - Date() object methods and properties  
+  - Switch statement  
 
 ---
 
