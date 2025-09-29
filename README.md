@@ -72,7 +72,16 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 8. Team Cards 
+### 8. RPS 
+- **Rock, Paper, Scissors** (Reviewing DOM Manipulation)  
+  **Practices:**  
+  - DOM Manipulation  
+  - Conditional statements  
+  - Functions 
+
+---
+
+### 9. Team Cards 
 - **Team Cards**  
   **Practices:**  
     - Object.freeze() method  
@@ -84,14 +93,15 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 9. RPS 
-- **Rock, Paper, Scissors** (Reviewing DOM Manipulation)  
+### 10. Todo List 
+- **Task List w/Local Storage**  
   **Practices:**  
-  - DOM Manipulation  
-  - Conditional statements  
-  - Functions 
+    - Local Storage/Sessions
+    - Basic CRUD functionality
+    - DOM Manipulation
+    - Event handling  
 
 ---
 
-### 10. Typescript  
+### 11. Typescript  
 - Playground  
