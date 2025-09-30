@@ -31,6 +31,15 @@ All projects are in courtesy of freeCodeCamp Org!
   - Simple async functions (*setTimeout() method*)  
   - Call stack (*LIFO*) 
 
+- **Decimal to Roman Numeral Converter** (Certification Project for basic JS)
+  **Practices:**  
+  - Recursive Functions 
+  - Call stack  
+  - Arrays  
+  - Objects 
+  - DOM Manipulation  
+  - Modern JS Functions 
+
 ---
 
 ### 4. Date Formatter 
