@@ -24,7 +24,16 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 3. Date Formatter 
+### 3. Conversion
+- **Decimal to Binary Converter** 
+  **Practices:**  
+  - Recursive Functions 
+  - Simple async functions (*setTimeout() method*)  
+  - Call stack (*LIFO*) 
+
+---
+
+### 4. Date Formatter 
 - **Basic Date Formatter dropdown** 
 - Changes date format 
   **Practices:**  
@@ -34,14 +43,14 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 4. Javascript  
+### 5. Javascript  
 - Pyramid Generator  
 - Gradebook Program  
 - Fibonacci Sequence  
 
 ---
 
-### 5. Music Player
+### 6. Music Player
 - **Basic Music Player** (modern JS with arrow fns) 
     - Handles audio playback, managing playlist, implementing pause, play, previous, and shuffle functionality. 
 
@@ -51,7 +60,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 6. Palindrome 
+### 7. Palindrome 
 - **Palindrome word checker** (Certification Project for basic JS)  
   **Practices** 
   - Array manipulation
@@ -61,7 +70,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 7. RPG Game  
+### 8. RPG Game  
 - **Dragon Repeller** (Using basic HTML)  
   **Practices:**  
   - Arrays  
@@ -72,7 +81,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 8. RPS 
+### 9. RPS 
 - **Rock, Paper, Scissors** (Reviewing DOM Manipulation)  
   **Practices:**  
   - DOM Manipulation  
@@ -81,7 +90,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 9. Team Cards 
+### 10. Team Cards 
 - **Team Cards**  
   **Practices:**  
     - Object.freeze() method  
@@ -93,7 +102,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 10. Todo List 
+### 11. Todo List 
 - **Task List w/Local Storage**  
   **Practices:**  
     - Local Storage/Sessions
@@ -103,5 +112,5 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 11. Typescript  
+### 12. Typescript  
 - Playground  
