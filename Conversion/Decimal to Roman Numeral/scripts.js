@@ -75,7 +75,6 @@ const checkInput = () => {
 }
 
 const convertToRomanNumeral = number => {
-
     let symbol = '';
 
     for(const obj of romanNumerals){
@@ -86,11 +85,7 @@ const convertToRomanNumeral = number => {
         }
     }
     
-    if(number !== 0){
-        return symbol + convertToRomanNumeral(number);
-    }else{
-        return symbol;
-    }
+    return number !== 0 ? symbol + convertToRomanNumeral(number) : symbol;
 }
 
 submitButton.addEventListener('click', checkInput);
