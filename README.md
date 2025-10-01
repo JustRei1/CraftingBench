@@ -99,7 +99,16 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 10. Team Cards 
+### 10. Spam Filter 
+- **Simple SPAM filter**  
+  **Practices:**  
+  - Regex expressions 
+  - Match casing  
+  - Arrays (*.some() method*) 
+
+---
+
+### 11. Team Cards 
 - **Team Cards**  
   **Practices:**  
     - Object.freeze() method  
@@ -111,7 +120,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 11. Todo List 
+### 12. Todo List 
 - **Task List w/Local Storage**  
   **Practices:**  
     - Local Storage/Sessions
@@ -121,5 +130,5 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 12. Typescript  
+### 13. Typescript  
 - Playground  
