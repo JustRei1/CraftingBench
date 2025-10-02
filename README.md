@@ -99,7 +99,15 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 10. Spam Filter 
+### 10. Sorter  
+- **Number Sorter** 
+  **Practices:**  
+  - Simple Data structures  
+  - Algorithms  (*Sorting methods such as Bubble, Insertion, and Selection sorts*) 
+
+---
+
+### 11. Spam Filter 
 - **Simple SPAM filter**  
   **Practices:**  
   - Regex expressions 
@@ -108,7 +116,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 11. Team Cards 
+### 12. Team Cards 
 - **Team Cards**  
   **Practices:**  
     - Object.freeze() method  
@@ -120,7 +128,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 12. Todo List 
+### 13. Todo List 
 - **Task List w/Local Storage**  
   **Practices:**  
     - Local Storage/Sessions
@@ -130,5 +138,5 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 13. Typescript  
+### 14. Typescript  
 - Playground  
