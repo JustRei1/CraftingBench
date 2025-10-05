@@ -53,6 +53,7 @@ All projects are in courtesy of freeCodeCamp Org!
 ---
 
 ### 5. Javascript  
+- Exoplanet searcher  
 - Pyramid Generator  
 - Gradebook Program  
 - Fibonacci Sequence  
