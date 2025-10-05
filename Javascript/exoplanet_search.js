@@ -5,7 +5,6 @@ function hasExoplanet(readings) {
     const alphabetRegex = /[a-z]/i;
     let thereIsExoplanet = true;
     let sum = 0;
-    let numOfString = 0;
 
     for (let i = 0; i < 26; i++){
       alphabets[String.fromCharCode(97 + i)] = i + 10;  // Neat trick to give all alphabets values
@@ -14,10 +13,9 @@ function hasExoplanet(readings) {
     for(const char of readings){
         sum += alphabetRegex.test(char) ? alphabets[char.toLowerCase()] : Number(char);
         listArray.push( alphabetRegex.test(char) ? alphabets[char.toLowerCase()] : Number(char));
-        numOfString++
     }
 
-    const averageOfString = sum / numOfString;
+    const averageOfString = sum / listArray.length;
 
     for(let value of listArray){
         if(value <= (averageOfString * 0.8)){
