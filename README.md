@@ -57,6 +57,8 @@ All projects are in courtesy of freeCodeCamp Org!
 - Pyramid Generator  
 - Gradebook Program  
 - Fibonacci Sequence  
+- Phone Home  
+- Password Checker  
 
 ---
 
