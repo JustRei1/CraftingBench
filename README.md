@@ -117,9 +117,19 @@ All projects are in courtesy of freeCodeCamp Org!
   - Match casing  
   - Arrays (*.some() method*) 
 
----
+--- 
 
-### 12. Team Cards 
+### 12. Statistics Calculator 
+- **Statistics Calculator** 
+  **Practices:**  
+  - Array Manipulation methods (*map(), reduce(), filter()*)  
+  - DOM Manipulation  
+  - Method Chaining 
+  - Statistics Calculation  (*using Math() obj*)  
+
+--- 
+
+### 13. Team Cards 
 - **Team Cards**  
   **Practices:**  
     - Object.freeze() method  
@@ -131,7 +141,7 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 13. Todo List 
+### 14. Todo List 
 - **Task List w/Local Storage**  
   **Practices:**  
     - Local Storage/Sessions
@@ -141,5 +151,5 @@ All projects are in courtesy of freeCodeCamp Org!
 
 ---
 
-### 14. Typescript  
+### 15. Typescript  
 - Playground  
