@@ -59,6 +59,8 @@ All projects are in courtesy of freeCodeCamp Org!
 - Fibonacci Sequence  
 - Phone Home  
 - Password Checker  
+- Landing Spot  
+- Goldilocks  
 
 ---
 
