@@ -63,6 +63,7 @@ All projects are in courtesy of freeCodeCamp Org!
 - Goldilocks  
 - Plus Minus  
 - Staircase 
+- Minimax 
 
 ---
 
