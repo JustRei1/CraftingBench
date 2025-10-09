@@ -61,6 +61,8 @@ All projects are in courtesy of freeCodeCamp Org!
 - Password Checker  
 - Landing Spot  
 - Goldilocks  
+- Plus Minus  
+- Staircase 
 
 ---
 
