@@ -44,5 +44,4 @@ console.log("Sample #1 - Basic Minimax", miniMax([1, 2, 3, 4, 5]))
 // since technically all values satisfy Math.max()
 // To fix this... check miniMaxRevised()
 console.log("Sample #2", miniMaxRevised([5, 5, 5, 5, 5]))
-
 console.log("Sample #3 - Minimax Revised", miniMaxRevised([1, 2, 3, 4, 5]))
