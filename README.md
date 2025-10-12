@@ -64,6 +64,8 @@ All projects are in courtesy of freeCodeCamp Org!
 - Plus Minus  
 - Staircase 
 - Minimax 
+- Moon Phase  
+- Fuel Launch 
 
 ---
 
