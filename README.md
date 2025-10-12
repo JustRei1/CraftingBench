@@ -40,6 +40,15 @@ All projects are in courtesy of freeCodeCamp Org!
   - DOM Manipulation  
   - Modern JS Functions 
 
+- **Hex to Decimal Converter**  
+  **Practices:**  
+  - Recursive Functions 
+  - Call stack  
+  - Arrays  
+  - Objects 
+  - Modern JS Functions 
+  - DOM Manipulation  
+
 ---
 
 ### 4. Date Formatter 
