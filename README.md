@@ -75,6 +75,7 @@ All projects are in courtesy of freeCodeCamp Org!
 - Minimax 
 - Moon Phase  
 - Fuel Launch 
+- GPA Calculator
 
 ---
 
