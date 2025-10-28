@@ -76,6 +76,7 @@ All projects are in courtesy of freeCodeCamp Org!
 - Moon Phase  
 - Fuel Launch 
 - GPA Calculator
+- Rotating 2D Matrix
 
 ---
 
