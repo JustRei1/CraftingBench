@@ -10,9 +10,9 @@ const rotateMatrix = (matrix, loop=1) => {
     let resultMatrix = matrix
     for(let k=0; k < loop; k++){
         const rotatedMatrix = []
-        for(let i=0; i < resultMatrix.length; i++){
+        for(let i=0; i < resultMatrix[0].length; i++){
             rotatedMatrix[i] = []
-            for(let j=0; j < resultMatrix[i].length; j++){
+            for(let j=0; j < resultMatrix.length; j++){
                 rotatedMatrix[i][j] = resultMatrix[j][i]
             }
             rotatedMatrix[i].reverse()
@@ -41,10 +41,13 @@ const rotateMatrix = (matrix, loop=1) => {
 const sampleMatrix = [
     [1, 2, 3],
     [4, 5, 6],
-    [7, 8, 9]
+    [7, 8, 9],
+    [10, 11, 12],
+    [13, 14, 15],
+    [16, 17, 18]
 ]
 
 console.log('Before:\n')
 console.log(sampleMatrix.map(row => `[${row.join(',')}]`).join('\n'))
 console.log('\nAfter:\n')
-console.log(rotateMatrix(sampleMatrix, -1))
+console.log(rotateMatrix(sampleMatrix))
